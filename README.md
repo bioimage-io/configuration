@@ -93,8 +93,7 @@ What about `javascript`?
 -->
 - `framework`
 The deep learning framework of the source code. For now, we support `pytorch` and `tensorflow`.
-Can be `null` if the implementation is not framework specific.\
-`language` and `framework` define which model runner can use this model for inference. 
+`language` and `framework` define which model runner can use this model for inference.
 
 - `weight_format` format of all weight entries
 
